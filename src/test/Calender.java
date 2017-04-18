@@ -19,6 +19,7 @@ import java.util.Scanner;
 public class Calender {
 
 //This is Calender program.
+//Input data is only Integer type.
 	public static void main(String[] args) {
 		   System.out.println("input year ");
 	        Scanner scanner1 = new Scanner(System.in);
